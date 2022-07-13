@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	>
+<channel>
+	<title>Feed</title>
+	<atom:link href="https://bozonews.s3.amazonaws.com/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://bozonews.s3.amazonaws.com</link>
+	<description>My blog</description>
+	<language>en</language>
+	<lastBuildDate>Sat, 25 Jun 2022 07:03:29 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<item>
+		<title>Buying and Selling Bitcoin in Canada</title>
+		<description><![CDATA[<p>Buying and Selling Bitcoin in Canada</p>]]></description>
+		<link>https://bozonews.s3.amazonaws.com/buying-and-selling-bitcoin-in-canada.html</link>
+		<dc:creator>Ralph Wiggum</dc:creator>
+		<guid>https://bozonews.s3.amazonaws.com/buying-and-selling-bitcoin-in-canada.html</guid>
+		<pubDate>Sat, 25 Jun 2022 07:03:29 +0000</pubDate>
+		<content:encoded><![CDATA[Buying and Selling Bitcoin in Canada]]></content:encoded>
+	</item>
+
+	<item>
+		<title>Bitcoin Hits 2022 High As Analyst Gives New $80K BTC Price Target</title>
+		<description><![CDATA[<p>Bitcoin Hits 2022 High As Analyst Gives New $80K BTC Price Target</p>]]></description>
+		<link>https://bozonews.s3.amazonaws.com/bitcoin-hits-2022-high-as-analyst-gives-new-80k-btc-price-target.html</link>
+		<dc:creator>Ralph Wiggum</dc:creator>
+		<guid>https://bozonews.s3.amazonaws.com/bitcoin-hits-2022-high-as-analyst-gives-new-80k-btc-price-target.html</guid>
+		<pubDate>Sat, 25 Jun 2022 07:03:29 +0000</pubDate>
+		<content:encoded><![CDATA[Bitcoin Hits 2022 High As Analyst Gives New $80K BTC Price Target]]></content:encoded>
+	</item>
+
+	<item>
+		<title>Accel DeFi Review – Redefining Finance and the Web3</title>
+		<description><![CDATA[<p>Accel DeFi Review – Redefining Finance and the Web3</p>]]></description>
+		<link>https://bozonews.s3.amazonaws.com/accel-defi-review-redefining-finance-and-the-web3.html</link>
+		<dc:creator>Ralph Wiggum</dc:creator>
+		<guid>https://bozonews.s3.amazonaws.com/accel-defi-review-redefining-finance-and-the-web3.html</guid>
+		<pubDate>Sat, 25 Jun 2022 07:03:29 +0000</pubDate>
+		<content:encoded><![CDATA[Accel DeFi Review – Redefining Finance and the Web3]]></content:encoded>
+	</item>
+
+</channel>
+</rss>
