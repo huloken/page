@@ -13,28 +13,28 @@
 	<link>https://huloken.github.io/page</link>
 	<description>My blog</description>
 	<language>en</language>
-	<lastBuildDate>Sat, 30 Jul 2022 02:00:02 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 Jul 2022 02:30:02 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<item>
-		<title>certification</title>
-		<description><![CDATA[<p>certification</p>]]></description>
-		<link>https://huloken.github.io/page/?r-certification</link>
+		<title>economista</title>
+		<description><![CDATA[<p>economista</p>]]></description>
+		<link>https://huloken.github.io/page/?r-economista</link>
 		<dc:creator>Ralph Wiggum</dc:creator>
-		<guid>https://huloken.github.io/page/?r-certification</guid>
-		<pubDate>Sat, 30 Jul 2022 02:00:02 +0000</pubDate>
-		<content:encoded><![CDATA[certification]]></content:encoded>
+		<guid>https://huloken.github.io/page/?r-economista</guid>
+		<pubDate>Sat, 30 Jul 2022 02:30:02 +0000</pubDate>
+		<content:encoded><![CDATA[economista]]></content:encoded>
 	</item>
 
 	<item>
-		<title>audience</title>
-		<description><![CDATA[<p>audience</p>]]></description>
-		<link>https://huloken.github.io/page/?l-audience</link>
+		<title>provenza</title>
+		<description><![CDATA[<p>provenza</p>]]></description>
+		<link>https://huloken.github.io/page/?l-provenza</link>
 		<dc:creator>Ralph Wiggum</dc:creator>
-		<guid>https://huloken.github.io/page/?l-audience</guid>
-		<pubDate>Sat, 30 Jul 2022 02:00:02 +0000</pubDate>
-		<content:encoded><![CDATA[audience]]></content:encoded>
+		<guid>https://huloken.github.io/page/?l-provenza</guid>
+		<pubDate>Sat, 30 Jul 2022 02:30:02 +0000</pubDate>
+		<content:encoded><![CDATA[provenza]]></content:encoded>
 	</item>
 
 </channel>
