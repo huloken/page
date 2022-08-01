@@ -13,28 +13,28 @@
 	<link>https://huloken.github.io/page</link>
 	<description>My blog</description>
 	<language>en</language>
-	<lastBuildDate>Mon, 01 Aug 2022 17:00:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Aug 2022 17:30:01 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<item>
-		<title>exposition</title>
-		<description><![CDATA[<p>exposition</p>]]></description>
-		<link>https://huloken.github.io/page/?r-exposition</link>
+		<title>eurofondov</title>
+		<description><![CDATA[<p>eurofondov</p>]]></description>
+		<link>https://huloken.github.io/page/?r-eurofondov</link>
 		<dc:creator>Ralph Wiggum</dc:creator>
-		<guid>https://huloken.github.io/page/?r-exposition</guid>
-		<pubDate>Mon, 01 Aug 2022 17:00:01 +0000</pubDate>
-		<content:encoded><![CDATA[exposition]]></content:encoded>
+		<guid>https://huloken.github.io/page/?r-eurofondov</guid>
+		<pubDate>Mon, 01 Aug 2022 17:30:01 +0000</pubDate>
+		<content:encoded><![CDATA[eurofondov]]></content:encoded>
 	</item>
 
 	<item>
-		<title>vendée</title>
-		<description><![CDATA[<p>vendée</p>]]></description>
-		<link>https://huloken.github.io/page/?l-vendée</link>
+		<title>vyplatila</title>
+		<description><![CDATA[<p>vyplatila</p>]]></description>
+		<link>https://huloken.github.io/page/?l-vyplatila</link>
 		<dc:creator>Ralph Wiggum</dc:creator>
-		<guid>https://huloken.github.io/page/?l-vendée</guid>
-		<pubDate>Mon, 01 Aug 2022 17:00:01 +0000</pubDate>
-		<content:encoded><![CDATA[vendée]]></content:encoded>
+		<guid>https://huloken.github.io/page/?l-vyplatila</guid>
+		<pubDate>Mon, 01 Aug 2022 17:30:01 +0000</pubDate>
+		<content:encoded><![CDATA[vyplatila]]></content:encoded>
 	</item>
 
 </channel>
