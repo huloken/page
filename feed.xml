@@ -13,28 +13,28 @@
 	<link>https://huloken.github.io/page</link>
 	<description>My blog</description>
 	<language>en</language>
-	<lastBuildDate>Mon, 01 Aug 2022 18:30:02 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Aug 2022 19:00:01 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<item>
-		<title>grasshopper</title>
-		<description><![CDATA[<p>grasshopper</p>]]></description>
-		<link>https://huloken.github.io/page/?r-grasshopper</link>
+		<title>méxico</title>
+		<description><![CDATA[<p>méxico</p>]]></description>
+		<link>https://huloken.github.io/page/?r-méxico</link>
 		<dc:creator>Ralph Wiggum</dc:creator>
-		<guid>https://huloken.github.io/page/?r-grasshopper</guid>
-		<pubDate>Mon, 01 Aug 2022 18:30:02 +0000</pubDate>
-		<content:encoded><![CDATA[grasshopper]]></content:encoded>
+		<guid>https://huloken.github.io/page/?r-méxico</guid>
+		<pubDate>Mon, 01 Aug 2022 19:00:01 +0000</pubDate>
+		<content:encoded><![CDATA[méxico]]></content:encoded>
 	</item>
 
 	<item>
-		<title>hamptons</title>
-		<description><![CDATA[<p>hamptons</p>]]></description>
-		<link>https://huloken.github.io/page/?l-hamptons</link>
+		<title>primero</title>
+		<description><![CDATA[<p>primero</p>]]></description>
+		<link>https://huloken.github.io/page/?l-primero</link>
 		<dc:creator>Ralph Wiggum</dc:creator>
-		<guid>https://huloken.github.io/page/?l-hamptons</guid>
-		<pubDate>Mon, 01 Aug 2022 18:30:02 +0000</pubDate>
-		<content:encoded><![CDATA[hamptons]]></content:encoded>
+		<guid>https://huloken.github.io/page/?l-primero</guid>
+		<pubDate>Mon, 01 Aug 2022 19:00:01 +0000</pubDate>
+		<content:encoded><![CDATA[primero]]></content:encoded>
 	</item>
 
 </channel>
